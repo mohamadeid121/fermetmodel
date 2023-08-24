@@ -1,0 +1,9 @@
+pandas==1.5.3
+joblib
+numpy
+scikit-learn	
+matplotlib
+xlwt
+openpyxl
+statsmodels
+Flask==2.1.1
